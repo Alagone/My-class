@@ -1,0 +1,92 @@
+.menu{
+	position: fixed;
+	width: 10%;
+	background-color: #FFF;
+	height: 800px;
+	margin-left: 89%;
+}
+body{
+	background-color: #B0E0E6;
+}
+.menu a{
+	background-color: #000;
+	text-decoration: none;
+	border-radius: 6px;
+	padding: 10px 20px;
+	vertical-align:top;
+	display: inline-block;
+	margin: 30px;
+	color: #00FFFF;
+}
+.menu a:hover{color: #fff;
+	background-color: #00FFFF;}
+label{
+	color: #000;
+	font-size: 50px;
+}
+.aboutclass label{
+	color: #000;
+	font-size: 40px;
+}
+.aboutclass p{
+	font-size: 35px;
+}
+.teachers h1{
+	font-size: 35px;
+	color: #Fff;
+}
+.teachers img{
+	width: 300px;
+}
+.teachers p{
+	font-size: 35px;
+}
+.teachers img{
+	border: 40px #8B4513 groove;
+}
+.shedule h1{
+	font-size: 40px;
+	text-align: center;
+}
+li{
+	background-color: #DC143C;
+	color: #fff;
+	list-style-type: none;
+}
+td{
+	color: #FFFF00;
+	background-color: #6A5ACD;
+}
+ul{
+	padding: 0;
+}
+table{
+	margin: 0 auto;
+	width: 1000px;
+	height: 300px;
+	text-align: center;
+}
+.teachers div{
+	display: inline-block;
+	width: 30%;
+	height: 700px;
+	vertical-align: top;
+}
+.students div{
+	display: inline-block;
+	width: 40%;
+	margin: 10px; 
+}
+.students img{
+	width: 100%;
+	border: #FFFF00 10px solid;
+}
+img{
+	opacity: 0.7;
+}
+img:hover{
+	opacity:1; 
+}
+.students h1{
+	color: #FFA500;
+}
